@@ -50,7 +50,7 @@ This Power BI dashboard visualizes insights into the managerial expectations, ca
 To understand how Gen-Z expects to be managed, what career influences them the most, and what work and learning environments align with their aspirations — helping organizations and educators build Gen-Z inclusive strategies.
 
 
-![MANAGER ASPIRATION](images/MANAGER_ASPIRATION.png)
+![MANAGER_ASPIRATION](images/MANAGER_ASPIRATION.png)
 
 📊 Dashboard Highlights:
 📥 Total Responses: 39,000+
