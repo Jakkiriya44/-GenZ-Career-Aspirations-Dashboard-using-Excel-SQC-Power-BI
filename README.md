@@ -147,7 +147,7 @@ Which job sectors show the highest misalignment.
 How gender and work environment preferences vary over time.
 
 
-![MISSION ASPIRATION](images/MISSION_ASPIRATION.png)
+![MISSION_ASPIRATION](images/MISSION_ASPIRATION.png)
 
 
 📊 Dashboard Overview:
